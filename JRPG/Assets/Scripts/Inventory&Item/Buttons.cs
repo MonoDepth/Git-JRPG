@@ -15,14 +15,13 @@ public class Buttons : MonoBehaviour,IPointerDownHandler{
 	Inventory inventory;
 	public btntype buttontype;
 
-	// Use this for initialization
+
 	void Start () {
 		st = GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>().st;
 		inventory = GameObject.FindGameObjectWithTag ("Inventory").GetComponent<Inventory>();
 	
 	}
-	
-	// Update is called once per frame
+
 	void Update () {
 	
 	}

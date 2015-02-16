@@ -24,14 +24,14 @@ public class DescriptionBox : MonoBehaviour {
 	
 	}
 
-	public void Popup(Item Self, int indx)
+	public void Popup(Item Self, int indx) //Sets the icon and description of the object in a popup box 
 	{
-		Debug.Log ("Got to the function");
+
 		activeItem = Self;
 		inx = indx;
 		foreach (Text txt in txts) 
 		{
-			if (txt.name == "Flavor")
+			if (txt.name == "Flavor") //Makes sure the right text and image element is set
 				{
 				txt.text = Self.flavorText;
 				break;

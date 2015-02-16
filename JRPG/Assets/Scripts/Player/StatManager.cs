@@ -3,7 +3,7 @@ using System.Collections;
 
 public class StatManager {
 
-	public static string characterName;
+	public static string characterName; //Holds static player values like stats
 	public static int atk = 20;
 	public static int def = 10;
 	public static int hp = 100, mp = 20;
