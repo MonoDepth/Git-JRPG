@@ -1,0 +1,56 @@
+Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     2027 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\SubZero Games\JRPG\Rescources\latest\v.00252_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\SubZero Games\JRPG\Rescources\latest\v.00252_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\SubZero Games\JRPG\Rescources\latest\v.00252_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\SubZero Games\JRPG\Rescources\latest\v.00252_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\SubZero Games\JRPG\Rescources\latest\v.00252_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\SubZero Games\JRPG\Rescources\latest\v.00252_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1789)
+
+Platform assembly: E:\SubZero Games\JRPG\Rescources\latest\v.00252_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\SubZero Games\JRPG\Rescources\latest\v.00252_Data\Managed\System.Core.dll (this message is harmless)
+ItemSheet_0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Practice Sword
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Practice Sword
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Practice Sword
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Practice Sword
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Practice Sword
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Practice Sword
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
