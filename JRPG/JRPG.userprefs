@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\FastPacedFPS\Assets\Scripts\movement.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Movement.cs">
     <Files>
-      <File FileName="..\FastPacedFPS\Assets\Scripts\movement.cs" Line="32" Column="3" />
-      <File FileName="..\FastPacedFPS\Assets\Bootcampstuff\Scripts\soldier\SoldierController.js" Line="219" Column="18" />
+      <File FileName="Assets\Scripts\Inventory&amp;Item\Slot.cs" Line="20" Column="2" />
+      <File FileName="Assets\Scripts\Player\Movement.cs" Line="54" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

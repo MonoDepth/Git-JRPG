@@ -12,7 +12,8 @@ public class Movement : MonoBehaviour {
 	public StatManager st = new StatManager();
 	void Start () {
 		levelmanager = GameObject.FindGameObjectWithTag("LevelManager"); //Setting the level manager object, it's the object that stores all static information like stats amd level details
-		org = rigidbody2D.position;
+		org = GetComponent<Rigidbody2D>().position;
+		DontDestroyOnLoad(this.gameObject);
 
 	}
 
@@ -33,7 +34,7 @@ public class Movement : MonoBehaviour {
 			origin.x += speed;
 		}
 
-		rigidbody2D.MovePosition (rigidbody2D.position + origin * Time.deltaTime);
+		GetComponent<Rigidbody2D>().MovePosition (GetComponent<Rigidbody2D>().position + origin * Time.deltaTime);
 
 #if DEBUG
 		if (Input.GetKey (KeyCode.Alpha1)) { //Only for testing
